@@ -188,6 +188,7 @@ body{
 
 
 .display {
+    display: none;
     color: #000;
     position: fixed;
     top: 50%;
